@@ -1,0 +1,11 @@
+{
+  "name": "jpl-freenas_api",
+  "version": "0.1.0",
+  "author": "jpl",
+  "summary": "Puppet module that interacts with the FreeNAS API",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jlyheden/puppet-freenas_api.git",
+  "project_page": "https://github.com/jlyheden/puppet-freenas_api",
+  "issues_url": "https://github.com/jlyheden/puppet-freenas_api/issues",
+  "dependencies": []
+}
